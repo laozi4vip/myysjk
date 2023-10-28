@@ -1,6 +1,5 @@
 { "storeHouse": [ 
 { "sourceName": "💢自用仓库💢", "sourceUrl": "https://github.com/laozi4vip/myysjk/raw/main/jkwj/dan.txt" }, 
-{ "sourceName": "💢爬虫💢", "sourceUrl": "https://github.com/laozi4vip/myysjk/raw/main/jk.txt" }, 
 { "sourceName": "🌸自用仓库", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
 { "sourceName": "🧡多线接口","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
 { "sourceName": "💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
