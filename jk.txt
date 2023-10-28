@@ -1,6 +1,6 @@
 {
 ## spider
-//"spider":"https://github.com/laozi4vip/myysjk/blob/d7c08f16050ff3492f096f5b17469b8956a6c579/A4.jar",
+//"spider":"https://github.com/laozi4vip/myysjk/raw/main/A4.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
