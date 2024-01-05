@@ -8,7 +8,7 @@
 {"name":"🏆荷城砂锅","url":"http://rihou.cc:88/荷城茶秀"},
 {"name":"💛OK炸天砂锅","url":"https://already.free.hr/okcaptain/okjar/rm/ok.json"},
 {"name":"💞多多砂锅","url":"https://yydsys.top/duo"},
-{"name":"💞骚零砂锅","https://100km.top/0"},
+{"name":"💞骚零砂锅","url":"https://100km.top/0"},
 {"name":"🚒运输砂锅","url":"https://weixine.net/ysc.json"},
 {"name":"🚒不好打开运输砂锅","url":"https://weixine.net/ysc.json"},
 {"name":"🌙胖鸭砂锅","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
