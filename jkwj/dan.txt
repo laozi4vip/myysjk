@@ -1,5 +1,5 @@
 {"urls":[
-{"name":"🍚太硬砂锅","url":"http://饭太硬.top/"},
+{"name":"🍚太硬砂锅","url":"http://饭太硬.top/tv"},
 {"name":"🌹小米砂锅","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"🐯精简砂锅","url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
 {"name":"🐯跑马砂锅","url":"https://agit.ai/ddx/TVBox/raw/branch/master/m.json"},
