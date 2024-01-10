@@ -1,6 +1,6 @@
 {
     "spider": "https://gitee.com/laozi4vip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431",
-    "wallpaper": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/tupian/fengjing1.jpg",
+    "wallpaper": "https://gitee.com/laozi4vip/shangyunvipdc/raw/master/tupian/fengjing1.jpg",
     "warningText": "禁止转发，一旦发现全部删除，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途。果冻自用&接口",
     "sites": [
         {
