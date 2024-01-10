@@ -1,0 +1,2113 @@
+{
+    "spider": "https://gitee.com/laozi4vip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431",
+    "wallpaper": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/tupian/fengjing1.jpg",
+    "warningText": "禁止转发，一旦发现全部删除，如有冒犯请联系删除。所有内容仅供学习使用，请勿用于违法用途。果冻自用&接口",
+    "sites": [
+        {
+            "key": "果冻自用&🚫",
+            "name": "👑果冻自用&🚫",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "果冻自用&玩偶哥哥",
+            "name": "👽果冻自用&玩偶哥哥4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "果冻自用&YGP",
+            "name": "🚀果冻自用&叨观荐影速递",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&Czsapp",
+            "name": "📔果冻自用&厂长┃直连",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.czzy33.com/"
+        },
+        {
+            "key": "果冻自用&橘子",
+            "name": "🍊果冻自用&橘子┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+        },
+        {
+            "key": "果冻自用&77",
+            "name": "👒果冻自用&七七┃App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "果冻自用&4K",
+            "name": "🍥果冻自用&4K影音天堂🍥",
+            "type": 3,
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "果冻自用&玩偶哥哥0",
+            "name": "👽果冻自用&玩偶哥哥0",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "果冻自用&玩偶表哥",
+            "name": "👽果冻自用&玩偶表哥9",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.214728327.xyz:56708$$$弹"
+        },
+        {
+            "key": "果冻自用&439",
+            "name": "果冻自用&439",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/",
+            "categories": [
+                "国产剧",
+                "短剧",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "韩国剧",
+                "台湾剧",
+                "泰国剧",
+                "日剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "海外动漫",
+                "电影解说",
+                "体育赛事",
+                "海外剧",
+                "纪录片"
+            ]
+        },
+        {
+            "key": "果冻自用&酷奇js",
+            "name": "🎤果冻自用&酷奇┃MV0",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/酷奇MV.js"
+        },
+        {
+            "key": "果冻自用&csp_search_Panda_pansearch",
+            "name": "🚢果冻自用&┃盘搜┃网盘",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": {
+                "数组": "flex flex-col items-start&&</div></div><div",
+                "标题": "名称：&&描述：",
+                "副标题": "发布时间：&&</p>",
+                "图片": "<img src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
+                "timeout": 30,
+                "changeable": 0,
+                "阿里token": ""
+            },
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+        },
+        {
+            "key": "果冻自用&csp_WoGG",
+            "name": "🎈果冻自用&玩偶┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        },
+        {
+            "key": "果冻自用&csp_search_Panda_盘搜",
+            "name": "🚃果冻自用&┃盘搜┃网盘2",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": {
+                "标题": "<span*>&&</div>",
+                "副标题": "时间:&&格式",
+                "图片": "thumb=\"&&\"",
+                "链接": "/cv/+href=\"/s/&&\"",
+                "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
+                "timeout": 30,
+                "changeable": 0,
+                "阿里token": ""
+            },
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+        },
+        {
+            "key": "果冻自用&csp_search_Panda_找资源",
+            "name": "☠果冻自用&┃资源┃网盘",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": {
+                "数组": "news_text&&</li>",
+                "标题": "<h3>&&</h3>",
+                "副标题": "时间：&&</p>",
+                "图片": "https://",
+                "链接": "/+href=\"&&\"",
+                "跳转数组": "</div>*<a&&</a>",
+                "跳转链接": "https://www.aliyundrive.com/s/+aliyundrive.com/s/&&\"",
+                "搜索url": "https://zhaoziyuan.me/so?filename={wd}&page=1;;ckrS5",
+                "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
+                "timeout": 30,
+                "changeable": 0,
+                "阿里token": ""
+            },
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+        },
+        {
+            "key": "果冻自用&csp_search_Panda_UP云搜",
+            "name": "🍒果冻自用&┃Up搜┃网盘",
+            "type": 3,
+            "api": "csp_UpYun",
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "",
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+        },
+        {
+            "key": "果冻自用&csp_search_Panda_易搜",
+            "name": "🐷果冻自用&┃易搜┃网盘",
+            "type": 3,
+            "api": "csp_YiSo",
+            "ext": "",
+            "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+        },
+        {
+            "key": "果冻自用&MV_vod",
+            "name": "🎹果冻自用&MTV合集",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "果冻自用&MTV_vod",
+            "name": "果冻自用&群星MTV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&AppYs_南瓜",
+            "name": "🍚果冻自用&VIP专享1080P-A",
+            "type": 3,
+            "playerType": 2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+        },
+        {
+            "key": "果冻自用&3索尼",
+            "name": "🎗果冻自用&3VIP专享1080P-B",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "记录片",
+                "海外剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "足球",
+                "影视解说",
+                "国产动漫"
+            ]
+        },
+        {
+            "key": "果冻自用&249zy",
+            "name": "🍚果冻自用&2VIP专享1080P-C",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "纪录片",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "韩国剧",
+                "动漫",
+                "电影",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "台湾剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "泰国剧",
+                "日剧",
+                "电影解说",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "体育赛事",
+                "海外剧"
+            ]
+        },
+        {
+            "key": "果冻自用&cjzy_快看",
+            "name": "⚽果冻自用&VIP专享1080P-D",
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+            "playUrl": "",
+            "changeable": 1,
+            "playerType": 2,
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "国产动漫",
+                "日韩剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "爱情片",
+                "剧情片",
+                "科幻片",
+                "奇幻片",
+                "战争片",
+                "犯罪片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "冒险片"
+            ]
+        },
+        {
+            "key": "果冻自用&电影",
+            "name": "🗽果冻自用&电App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+        },
+        {
+            "key": "果冻自用&a77",
+            "name": "👒果冻自用&a七七App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_YQKan",
+            "name": "👉果冻自用&一起看剧",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "果冻自用&439",
+            "name": "果冻自用&439",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/",
+            "categories": [
+                "国产剧",
+                "短剧",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "韩国剧",
+                "台湾剧",
+                "泰国剧",
+                "日剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "海外动漫",
+                "电影解说",
+                "体育赛事",
+                "海外剧",
+                "纪录片"
+            ]
+        },
+        {
+            "key": "果冻自用&YQK_spider",
+            "name": "👉果冻自用&一起影院",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "果冻自用&AppYs南瓜",
+            "name": "👉果冻自用&VIP专享",
+            "type": 3,
+            "playerType": 2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+        },
+        {
+            "key": "果冻自用&南瓜",
+            "name": "👉果冻自用&南瓜影院",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "果冻自用&南瓜",
+            "name": "👉果冻自用&春盈南瓜",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_XYQHiker_DJ呦呦音乐网",
+            "name": "♻️业余┃DJ呦呦音乐",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/g7NRuV/DJ%E5%91%A6%E5%91%A6%E9%9F%B3%E4%B9%90%E7%BD%91.json",
+            "jar": "https://pan.shangui.cc/f/J1vEhK/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+        },
+        {
+            "key": "果冻自用&吾爱经典",
+            "name": "♻️果冻自用&业余吾爱音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/V7NT8/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"
+        },
+        {
+            "key": "果冻自用&吾爱舞蹈",
+            "name": "♻️果冻自用&业余吾爱舞蹈",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/wYzig/%E5%90%BE%E7%88%B1%E8%88%9E%E8%B9%88.json"
+        },
+        {
+            "key": "果冻自用&哔哩",
+            "name": "♻️果冻自用&业余吾爱哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://pan.shangui.cc/f/8RzCo/bili.json"
+        },
+        {
+            "key": "果冻自用&吾爱乐器",
+            "name": "♻️果冻自用&业余我爱乐器",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/X7yFd/%E5%90%BE%E7%88%B1%E4%B9%90%E5%99%A8.json"
+        },
+        {
+            "key": "果冻自用&吾爱戏曲",
+            "name": "♻️果冻自用&业余吾爱戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/6R1hp/%E5%90%BE%E7%88%B1%E6%88%8F%E6%9B%B2.json"
+        },
+        {
+            "key": "果冻自用&吾爱演唱会",
+            "name": "♻️果冻自用&业余吾爱演唱会",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/N7AIj/%E5%90%BE%E7%88%B1%E6%BC%94%E5%94%B1%E4%BC%9A.json"
+        },
+        {
+            "key": "果冻自用&吾爱经典",
+            "name": "♻️果冻自用&业余吾爱音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/V7NT8/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"
+        },
+        {
+            "key": "果冻自用&drpy_哔哩",
+            "name": "🅱果冻自用&┃哔哩┃合集",
+            "type": 3,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "playerType": 1,
+            "ext": "https://d.kstore.space/download/6296/js/B站.js"
+        },
+        {
+            "key": "果冻自用&csp_KungFu404",
+            "name": "果冻自用&设置Token",
+            "type": 3,
+            "api": "csp_KungFu404",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tm/token.txt",
+            "jar": "./sites/码上/alibaba.jar"
+        },
+        {
+            "key": "果冻自用&玩偶1",
+            "name": "果冻自用&玩偶1",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tm/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+        },
+        {
+            "key": "果冻自用&玩偶哥哥2",
+            "name": "👽果冻自用&玩偶哥哥┃已修复断流2",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tm/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8c6fadafee20b3780e602f8f52c7cc92"
+        },
+        {
+            "key": "果冻自用&儿童",
+            "name": "📚果冻自用&┃儿童┃启蒙",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "http://alist.xn--z7x900a.live/兔小贝.js"
+        },
+        {
+            "key": "果冻自用&少儿",
+            "name": "📚果冻自用&┃少儿┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "http://alist.xn--z7x900a.live/少儿教育.json"
+        },
+        {
+            "key": "果冻自用&小学",
+            "name": "📚果冻自用&┃小学┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "http://alist.xn--z7x900a.live/小学课堂.json"
+        },
+        {
+            "key": "果冻自用&初中",
+            "name": "📚果冻自用&┃初中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "http://alist.xn--z7x900a.live/初中课堂.json"
+        },
+        {
+            "key": "果冻自用&高中",
+            "name": "📚果冻自用&┃高中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
+        },
+        {
+            "key": "果冻自用&应用商店",
+            "name": "🏡果冻自用&┃应用┃商店",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://fm.t4tv.hz.cz/json/market.json",
+            "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
+        },
+        {
+            "key": "果冻自用&yinyue",
+            "name": "🎤果冻自用&┃酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Music",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": "https://api.zalman2022.repl.co/music.json",
+            "jar": "https://api.zalman2022.repl.co/YSZYZ.jar"
+        },
+        {
+            "key": "果冻自用&csp_XYQHiker_‍dyx",
+            "name": "果冻自用&┃影港4K边下边播",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+        },
+        {
+            "key": "果冻自用&49zy",
+            "name": "🗼果冻自用&┃49Z┃",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "纪录片",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "韩国剧",
+                "动漫",
+                "电影",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "台湾剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "泰国剧",
+                "日剧",
+                "电影解说",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "体育赛事",
+                "海外剧"
+            ]
+        },
+        {
+            "key": "果冻自用&索尼",
+            "name": "🛸┃果冻自用&4K高清┃",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "记录片",
+                "海外剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "足球",
+                "影视解说",
+                "国产动漫"
+            ]
+        },
+        {
+            "key": "果冻自用&csp_XBPQ_6V",
+            "name": "🌙┃果冻自用&宝盒┃4k",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"
+        },
+        {
+            "key": "drpy_js_果冻自用&532影院",
+            "name": "果冻自用&532影院",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://agit.ai/yinweiwei1989/drpy/raw/branch/main/js/532%e5%bd%b1%e9%99%a2[V2].js"
+        },
+        {
+            "key": "果冻自用&荐片",
+            "name": "🎬┃果冻自用&┃荐片影视",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+        },
+        {
+            "key": "果冻自用&厂长",
+            "name": "🏭┃果冻自用&┃厂长影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/厂长.js"
+        },
+        {
+            "key": "果冻自用&影探",
+            "name": " 🕵┃果冻自用&┃影探影视",
+            "type": 3,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/yt.js"
+        },
+        {
+            "key": "果冻自用&路人",
+            "name": "🖼┃果冻自用&┃画画影视",
+            "api": "csp_AppYs",
+            "type": 3,
+            "playerType": "2",
+            "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+        },
+        {
+            "key": "果冻自用&drpy_js_豆瓣",
+            "name": "🐼┃果冻自用&",
+            "type": 3,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://d.kstore.space/download/6296/js/豆瓣推荐.js"
+        },
+        {
+            "key": "果冻自用&索尼",
+            "name": "🎗果冻自用&VIP专享1080P-B",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "记录片",
+                "海外剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "足球",
+                "影视解说",
+                "国产动漫"
+            ]
+        },
+        {
+            "key": "果冻自用&49zy",
+            "name": "🍚果冻自用&VIP专享1080P-C",
+            "type": 1,
+            "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "纪录片",
+                "欧美剧",
+                "香港剧",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "喜剧片",
+                "动画片",
+                "犯罪片",
+                "韩国剧",
+                "动漫",
+                "电影",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "台湾剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "泰国剧",
+                "日剧",
+                "电影解说",
+                "奇幻片",
+                "灾难片",
+                "悬疑片",
+                "其他片",
+                "体育赛事",
+                "海外剧"
+            ]
+        },
+        {
+            "key": "果冻自用&cjzy_快看",
+            "name": "⚽果冻自用&VIP专享1080P-D",
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+            "playUrl": "",
+            "changeable": 1,
+            "playerType": 2,
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "国产动漫",
+                "日韩剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "爱情片",
+                "剧情片",
+                "科幻片",
+                "奇幻片",
+                "战争片",
+                "犯罪片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "冒险片"
+            ]
+        },
+        {
+            "key": "果冻自用&csp_XBPQ_haoxi",
+            "name": "🌍果冻自用&好戏开场",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/bh666/YGBH/-/raw/main/h/%E5%A5%BD%E6%88%8F2.json",
+            "jar": "https://jihulab.com/bh666/YGBH/-/raw/main/jar/hx.jar"
+        },
+        {
+            "key": "果冻自用&csp_Panda_玩偶哥哥",
+            "name": "👲果冻自用&1┃玩偶┃影视",
+            "api": "csp_Panda",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "http://dt.xn--yety82d.love/玩偶哥哥.json"
+        },
+        {
+            "key": "果冻自用&蜂鸟",
+            "name": "🕊️果冻自用&┃蜂鸟┃影视",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+        },
+        {
+            "key": "果冻自用&007影视",
+            "name": "🍭果冻自用&┃零七┃影视",
+            "type": 3,
+            "playerType": "1",
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/007.js"
+        },
+        {
+            "key": "果冻自用&低端",
+            "name": "🛣果冻自用&┃低端┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/ddys.js"
+        },
+        {
+            "key": "果冻自用&奇优",
+            "name": " 🍩果冻自用&┃奇优┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/奇优.js"
+        },
+        {
+            "key": "果冻自用&虎虎",
+            "name": "🐯果冻自用&┃虎虎┃影视",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": "http://我不是.肥猫.live/json/虎虎.json"
+        },
+        {
+            "key": "果冻自用&drpy_js_360影视",
+            "name": "📺果冻自用&┃360┃官源",
+            "type": 3,
+            "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+            "ext": "https://d.kstore.space/download/6296/js/360.js"
+        },
+        {
+            "key": "果冻自用&蓝猫动漫",
+            "name": "🌊果冻自用&┃蓝猫┃动漫",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+        },
+        {
+            "key": "果冻自用&樱花动漫",
+            "name": "🌸果冻自用&┃樱花┃动漫",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+        },
+        {
+            "key": "果冻自用&csp_Anime1",
+            "name": "💀果冻自用&┃日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "果冻自用&csp_xifan",
+            "name": "🍚果冻自用&┃稀饭┃动漫",
+            "type": 3,
+            "api": "csp_Xifan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
+        },
+        {
+            "key": "果冻自用&Aid",
+            "name": "🚑果冻自用&┃急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "gridview": "0-0-4.1"
+        },
+        {
+            "key": "果冻自用&在线直播1",
+            "name": "📺果冻自用&┃竞技┃直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "gridview": "0-0-H",
+            "style": {
+                "type": "rect",
+                "ratio": 1.68
+            }
+        },
+        {
+            "key": "果冻自用&蝴蝶",
+            "name": "果冻自用&蝴蝶App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+        },
+        {
+            "key": "果冻自用&tvbsk",
+            "name": "果冻自用&TVB云播App",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
+        },
+        {
+            "key": "果冻自用&嘶哩",
+            "name": "果冻自用&嘶哩动漫",
+            "type": 3,
+            "api": "csp_Skapp",
+            "playerType": 2,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/sili"
+        },
+        {
+            "key": "果冻自用&樱花",
+            "name": "果冻自用&樱花动漫",
+            "type": 3,
+            "api": "csp_qiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/yinghua"
+        },
+        {
+            "key": "果冻自用&K影",
+            "name": "果冻自用&K影院App",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": "http://iosa.xn--654a.cc/api.php/app/"
+        },
+        {
+            "key": "果冻自用&csp_短剧网",
+            "name": "果冻自用&短剧网",
+            "type": 3,
+            "api": "csp_Duanjuw",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "果冻自用&拳皇争霸",
+            "name": "🏋️果冻自用&拳皇争霸",
+            "type": 3,
+            "api": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/drpy2.min.js",
+            "ext": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/quanhuang.js"
+        },
+        {
+            "key": "果冻自用&哔哩哔哩",
+            "name": "🅱️果冻自用&哔哩大全",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/MqR1Ty/Bili.json"
+        },
+        {
+            "key": "果冻自用&相声小品",
+            "name": "🏮果冻自用&相声小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/Blixs.json"
+        },
+        {
+            "key": "果冻自用&戏 曲",
+            "name": "🎈果冻自用&国粹戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/Blixq.json"
+        },
+        {
+            "key": "果冻自用&csp_XBPQ_短视频",
+            "name": "☘️果冻自用&短视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/duanshipin.json"
+        },
+        {
+            "key": "果冻自用&哔哩直播",
+            "name": "🅱️果冻自用&哔哩直播",
+            "type": 3,
+            "api": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/YG4pSy/blzb.js"
+        },
+        {
+            "key": "果冻自用&Czsapp",
+            "name": "📔果冻自用&厂长直连",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://czz9.com/"
+        },
+        {
+            "key": "果冻自用&橘子",
+            "name": "🍊果冻自用&橘子App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+        },
+        {
+            "key": "果冻自用&77",
+            "name": "👒果冻自用&七七App",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&南瓜",
+            "name": "🎃果冻自用&南瓜App",
+            "type": 3,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&嘿嘿",
+            "name": "💡果冻自用&嘿嘿App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+        },
+        {
+            "key": "果冻自用&蜂鸟",
+            "name": "🕊果冻自用&蜂鸟App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFroB7MoZYCIIND24O/vn7yU9QR8yI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhIgLgMSg228vn5DHAeJF8GNUkrF4Jo1n0FBoWeKCl6EsVIZQYaGAULAyk6bAVvvsMCfF8OLsUag5VCEcq1wRjY0Cw+SFg/kgZlsg0iqGp2BFbJ2kHwtc1"
+        },
+        {
+            "key": "果冻自用&小小",
+            "name": "👀果冻自用&小小App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
+        },
+        {
+            "key": "果冻自用&极光",
+            "name": "🦄️果冻自用&极光App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
+        },
+        {
+            "key": "果冻自用&皮皮虾",
+            "name": "🦀果冻自用&皮皮虾App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+        },
+        {
+            "key": "果冻自用&南坊",
+            "name": "☀果冻自用&南坊App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+        },
+        {
+            "key": "果冻自用&蚂蚁",
+            "name": "🐜果冻自用&蚂蚁App",
+            "type": 3,
+            "api": "csp_MYYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://rzys.xyz"
+        },
+        {
+            "key": "果冻自用&繁星",
+            "name": "💥果冻自用&繁星App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+        },
+        {
+            "key": "果冻自用&觅视频",
+            "name": "🗽果冻自用&觅视频App",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fT5yKRDkPGFi25mx+DXBMtV3UpEhsgBctFypT1hMdvW6txkGIdVcbXcULwu38vkbsKwSC/YwIKMAOQpRDkEq3wA4MUCwpidroBQbwc5j3aX/1xZdJGgHncNoUQ=="
+        },
+        {
+            "key": "果冻自用&一起看",
+            "name": "🎉果冻自用&一起App",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&zxzj",
+            "name": "📗果冻自用&在线直连",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzj.pro/"
+        },
+        {
+            "key": "果冻自用&毛驴",
+            "name": "🍓果冻自用&毛驴直连",
+            "type": 3,
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "果冻自用&Auete",
+            "name": "🏝果冻自用&奥特直连",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://haozhansou.com/"
+        },
+        {
+            "key": "果冻自用&迪迪",
+            "name": "🌈果冻自用&迪迪App",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "果冻自用&csp_Bttoo",
+            "name": "🍄果冻自用&比特直连",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&贱贱",
+            "name": "🐭果冻自用&贱贱p2p",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jp.js"
+        },
+        {
+            "key": "果冻自用&Lib",
+            "name": "🌟果冻自用&利播直连",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
+        },
+        {
+            "key": "果冻自用&DiDuan",
+            "name": "⏮️果冻自用&低端直连",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_Nmys",
+            "name": "🌾果冻自用&农民直连",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://fanty.run.goorm.site/ext/nmys.json"
+        },
+        {
+            "key": "果冻自用&Xinsj",
+            "name": "👓果冻自用&视觉直连",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.hdmyy.com/"
+        },
+        {
+            "key": "果冻自用&Cokemv",
+            "name": "📕果冻自用&可乐直连",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_SP33",
+            "name": "📺果冻自用&三三解析",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&4KHDR",
+            "name": "🧲果冻自用&世界磁力慎用",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/4khdr.js"
+        },
+        {
+            "key": "果冻自用&新6V",
+            "name": "🧲果冻自用&新6V磁力慎用",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://www.xb6v.com/"
+        },
+        {
+            "key": "果冻自用&csp_Dm84",
+            "name": "🚌果冻自用&动漫巴士",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_Ying",
+            "name": "💮果冻自用&樱花动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_Ysj",
+            "name": "🎀果冻自用&异界动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_Anime1",
+            "name": "🐾果冻自用&日本动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_Yj1211",
+            "name": "📽️果冻自用&网红直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&88js",
+            "name": "⚽果冻自用&88看球",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/88看球.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&csp_qiumi",
+            "name": "⚽果冻自用&Jrs球迷",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/jrk.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&csp_310直播",
+            "name": "⚽果冻自用&310看球",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/310直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&csp_XPath_企鹅体育",
+            "name": "🐧果冻自用&企鹅体育",
+            "type": 3,
+            "api": "csp_XPath",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
+        },
+        {
+            "key": "果冻自用&MV_vod",
+            "name": "🎶果冻自用&明星MV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "style": {
+                "type": "oval"
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&酷奇js",
+            "name": "🎤果冻自用&酷奇MV",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/酷奇MV.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&虎牙直播js",
+            "name": "🐯果冻自用&虎牙直播",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/虎牙直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&csp_XYQBiu_斗鱼",
+            "name": "🐟果冻自用&斗鱼直播",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/斗鱼直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&csp_聚短视频",
+            "name": "📽️果冻自用&聚短视频",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/短视频.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&有声小说js",
+            "name": "🎧果冻自用&有声小说",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/有声小说吧.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&YiSo",
+            "name": "😹果冻自用&易搜搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "果冻自用&Zhaozy",
+            "name": "🐺果冻自用&找资源搜索",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+        },
+        {
+            "key": "果冻自用&PanSou",
+            "name": "🦊果冻自用&盘搜搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "果冻自用&UpYun",
+            "name": "😻果冻自用&Up搜搜索",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "果冻自用&PanSearch",
+            "name": "🙀果冻自用&盘Se搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "果冻自用&七夜",
+            "name": "😾果冻自用&七夜搜索",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "果冻自用&push_agent",
+            "name": "🛴果冻自用&手机推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+        {
+            "key": "果冻自用&csp_Nbys",
+            "name": "🛫果冻自用&泥巴飞",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&csp_trj",
+            "name": "🛫果冻自用&唐人街飞",
+            "type": 3,
+            "api": "csp_Tangrenjie",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "果冻自用&Bili",
+            "name": "🅱果冻自用&哔哔合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+        },
+        {
+            "key": "果冻自用&Biliych",
+            "name": "🅱果冻自用&哔哔歌曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/biliych.json"
+        },
+        {
+            "key": "果冻自用&dr_兔小贝",
+            "name": "📚果冻自用&儿童启蒙",
+            "type": 3,
+            "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+            "ext": "https://fanty.run.goorm.site/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&少儿教育",
+            "name": "📚果冻自用&少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/少儿教育.json"
+        },
+        {
+            "key": "果冻自用&小学课堂",
+            "name": "📚果冻自用&小学课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/小学课堂.json"
+        },
+        {
+            "key": "果冻自用&初中课堂",
+            "name": "📚果冻自用&初中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/初中课堂.json"
+        },
+        {
+            "key": "果冻自用&高中教育",
+            "name": "📚果冻自用&高中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
+        },
+        {
+            "key": "果冻自用&fan",
+            "name": "导航 https://饭太硬.top",
+            "type": 3,
+            "api": "csp_fan",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "果冻自用&cc",
+            "name": "果冻自用&请勿相信视频中任何广告",
+            "type": 3,
+            "api": "csp_fan",
+            "searchable": 0,
+            "quickSearch": 0
+        }
+    ],
+    "parses": [
+        {
+            "name": "果冻自用&聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "神秘的哥哥们",
+            "type": 1,
+            "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
+            "name": "果冻自用&",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "果冻自用&免费分享",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "hwk",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "10.0099",
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "10.85"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666"
+            ]
+        },
+        {
+            "name": "sn",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "15.1666",
+                "15.2666"
+            ]
+        },
+        {
+            "name": "bf",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "xx",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "lz",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz1",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "18.5333"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "25.0666"
+            ]
+        },
+        {
+            "name": "hs",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "dy",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "nm",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "http://xzweb.top/cs/影视接口/main/直播.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
