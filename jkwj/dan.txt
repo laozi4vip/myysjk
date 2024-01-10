@@ -1,4 +1,5 @@
 {"urls":[
+{"name":"🍚自用","url":"https://github.com/laozi4vip/myysjk/raw/main/jelly.txt"},
 {"name":"🍚太硬砂锅","url":"http://饭太硬.top/tv"},
 {"name":"🥣小米砂锅","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"🐼肥猫砂锅","url":"http://肥猫.live"},
