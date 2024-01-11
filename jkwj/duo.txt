@@ -1,6 +1,7 @@
 { "storeHouse": [ 
-{ "sourceName": "💢果冻自用💢", "sourceUrl": "https://github.com/laozi4vip/myysjk/raw/main/jkwj/dan.txt" }, 
-{ "sourceName": "🌸自用仓库", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
+{ "sourceName": "👑果冻自用👑", "sourceUrl": "https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/dan.json" }, 
+{ "sourceName": "👑果冻本地👑", "sourceUrl": "clan://localhost/JellyBDC/Jelly.json" }, 
+{ "sourceName": "💢自用仓库💢", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
 { "sourceName": "🍭自用仓库", "sourceUrl": "https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
 { "sourceName": "🦆精品仓库", "sourceUrl": "https://www.agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
