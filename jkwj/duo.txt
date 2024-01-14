@@ -1,5 +1,5 @@
 { "storeHouse": [ 
-{ "sourceName": "👑果冻自用👑", "sourceUrl": "https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/dan.json" }, 
+{ "sourceName": "👑果冻自用👑", "sourceUrl": "https://github.com/laozi4vip/JellyZYC/raw/main/Jelly.json" }, 
 { "sourceName": "👑果冻本地👑", "sourceUrl": "clan://localhost/JellyBDC/Jelly.json" }, 
 { "sourceName": "💢自用仓库💢", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
 { "sourceName": "🍭自用仓库", "sourceUrl": "https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json" }, 
