@@ -1,5 +1,5 @@
 {"urls":[
-{"name":"👑果冻自用👑","url":"https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/jelly.json"},  
+{"name":"👑果冻自用👑","url":"https://github.com/laozi4vip/JellyZYC/raw/main/Jelly.json"},  
 {"name":"鸟叔&👑果冻👑","url":"https://github.com/laozi4vip/JellyZYC/raw/main/niaoshu/tongyong.json"},     
 {"name":"🍚饭太硬&👑果冻👑","url":"http://饭太硬.top/tv"},
 {"name":"🥣小米&👑果冻👑","url":"http://xhww.fun:63/小米/DEMO.json"},
