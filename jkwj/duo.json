@@ -1,6 +1,6 @@
 { "storeHouse": [ 
-{ "sourceName": "👑果冻自用👑","sourceUrl": "https://github.com/laozi4vip/myysjk/raw/main/jkwj/dan.json" }, 
-{ "sourceName": "👑果冻本地👑","sourceUrl": "clan://localhost/JellyBDC/Jelly.json" }, 
+{ "sourceName": "👑幸会自用👑","sourceUrl": "https://github.com/laozi4vip/myysjk/raw/main/jkwj/dan.json" }, 
+{ "sourceName": "👑幸会本地👑","sourceUrl": "clan://localhost/JellyBDC/Jelly.json" }, 
 {"sourceName":"⓪🌏TVBOX官方仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX官仓.json"},
 { "sourceName": "❤️主仓库🥝金鹰影视多仓库","sourceUrl": "http://530.my3v.work/99668.json" },
 { "sourceName": "①🥣砂锅影视多仓库","sourceUrl": "http://152.32.170.60/ddx/TVBox/raw/branch/master/d.json" },
